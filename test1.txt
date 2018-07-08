@@ -1,1 +1,3 @@
 s is exercise
+This is change in Branch 1 for exercise 3
+Thsi is change in Branc 2 for exercise 3
